@@ -110,3 +110,8 @@
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 
+#### Name: [Abhishek Panwar](https://github.com/abhishekpanwar97)
+- Place: New Delhi, India
+- Bio: student
+- Github: [Abhishek Panwar](https://github.com/abhishekpanwar97)
+
